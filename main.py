@@ -53,4 +53,4 @@ for arquivo in arquivos:
     else:
         print(f" Arquivo gerado vazio (Talvez seja um PDF escaneado/imagem?)")
 
-print("\n🏁 Processamento finalizado.")
+print("\n Processamento finalizado.")
